@@ -1,12 +1,3 @@
-# -TypescriptNinja
-🐱‍👤 TypescriptNinja - Our TypescriptVerse discoverys.
-
-### Input Content
-
-
-
-
-
 <h1 align = "center">Typescript</h1>
 
 <div align="center">  
@@ -58,12 +49,8 @@
 
 ### What its?
 
-1. Abc
+1. Inference and Annotaion Types
    
-
-- To do
-    - [ ]  To do
-
 
 ### How to do
 
@@ -75,19 +62,15 @@
 
 ### Notes
 
-****************************Init ts config****************************
-
 ```tsx
-tsc --init
-```
+Init ts config 
+tsc --init 
 
-**************************Auto compiler**************************
-
-```tsx
+Auto compiler
 tsc -w
 ```
 
-******************************************************Inference and Annotaion Types******************************************************
+Inference and Annotaion Types 
 
 ```tsx
 const ann: string = 'test'
